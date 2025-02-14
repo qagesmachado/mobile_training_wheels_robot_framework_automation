@@ -1,0 +1,17 @@
+{
+  "name": "mobile_training_wheels_robot_framework_automation",
+  "version": "1.0.0",
+  "description": "Esse é um projeto de estudo de automação Mobile utilizando:\r     - Robot Framework\r     - Appium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Machado",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^2.15.0"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^4.0.1"
+  }
+}
